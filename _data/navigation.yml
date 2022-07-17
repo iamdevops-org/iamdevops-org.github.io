@@ -13,7 +13,10 @@ main:
    url: /about/
  - title: "Join Slack"
    url: 
-
+ - title: "Career"
+   url: 
+ - title: "Join Community" 
+   url: 
 sidebar-home:
   # - title: "Danish InfoSec Communities"
   #   children:
