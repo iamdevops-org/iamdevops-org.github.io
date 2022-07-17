@@ -1,0 +1,80 @@
+main:
+ - title: "Posts"
+   url: /posts/
+ - title: "Projects"
+   url: /projects/
+ - title: "Events"
+   url: /events/
+ - title: "Contributing"
+   url: /contributing/
+ - title: "Code of Conduct"
+   url: /coc/
+ - title: "About"
+   url: /about/
+ - title: "Join Slack"
+   url: 
+
+sidebar-home:
+  # - title: "Danish InfoSec Communities"
+  #   children:
+  #     - title: "OWASP Aarhus"
+  #       url: https://owasp.org/www-chapter-aarhus/
+  #     - title: "Aarhus CitySec"
+  #       url: https://www.linkedin.com/groups/12139866/
+  #     - title: "OWASP Copenhagen"
+  #       url: https://owasp.org/www-chapter-copenhagen/
+  #     - title: "BSides Copenhagen"
+  #       url: https://bsideskbh.dk/
+
+sidebar-posts:
+  - title: "Search"
+    children:
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
+  
+  - title: "How to contribute"
+    children:
+      - title: "Posting to VSec"
+        url: /posting/
+      - title: "Projects on VSec"
+        url: /projects/
+      - title: "Events on VSec"
+        url: /events/
+
+sidebar-contributing:
+  - title: "How to contribute"
+    children:
+      - title: "Posting to VSec"
+        url: /posting/
+      - title: "Projects on VSec"
+        url: /projects/
+      - title: "Events on VSec"
+        url: /events/
+      - title: "Sponsoring VSec"
+        url: /sponsor/
+
+sidebar-projects:
+  - title: "Projects"
+    # children:
+    #   - title: "VSec CTI League"
+    #     url: https://github.com/VSecDK/VSec-CTI-League
+    #   - title: "Security Landscape in Denmark"
+    #     url: https://github.com/VSecDK/Security-Landscape-DK
+
+sidebar-events:
+  - title: "Event planning"
+    children:
+      - title: "Streaming Guide"
+        url: /streaming-guide/
+
+sidebar-about:
+  - title: "About"
+    children:
+      - title: "Verified Members"
+        url: /about/members/
+      - title: "Moderators"
+        url: /about/moderators/
+      - title: "Infrastructure"
+        url: /about/infrastructure/
