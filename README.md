@@ -18,8 +18,7 @@ STEP 2 :
 
 STEP 3 :
 
-- then run "ws" command on terminal 
-- Then click on the web server link mentioned on terminal
+- then run "ws" command on terminal, Then click on the web server link mentioned on terminal
 
 Listening on http://DESKTOP-Q2UCDSK:8000, http://10.10.10.225:8000, http://127.0.0.1:8000, http://172.26.224.1:8000  
 
